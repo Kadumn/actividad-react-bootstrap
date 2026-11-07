@@ -9,7 +9,7 @@ function Footer() {
         <a href="https://github.com/Kadumn" className="text-white mx-2">
           <i className="bi bi-github"></i>
         </a>
-        <a href="mailto:jeronimo@email.com" className="text-white mx-2">
+        <a href="mailto:jlarrotal@ufpso.edu.co" className="text-white mx-2">
           <i className="bi bi-envelope-fill"></i>
         </a>
         <a href="#perfil" className="text-white mx-2">
