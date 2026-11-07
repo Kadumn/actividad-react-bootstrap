@@ -26,7 +26,14 @@ function SobreMi() {
     <section id="sobre-mi" className="container-fluid py-5">
       <div className="container">
         <h2 className="text-center fw-bold mb-4">Sobre mí</h2>
-
+      <div className="text-center mb-4">
+        <img
+         src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1000"
+         alt="Espacio de trabajo de programación"
+         className="img-fluid rounded shadow"
+         style={{ maxHeight: "300px", objectFit: "cover" }}
+        />
+      </div>
         <div className="row g-4">
           <div className="col-md-6">
             <div className="card h-100 shadow-sm border-primary">
